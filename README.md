@@ -1,2 +1,2 @@
 # gr_bsu
-Edureka module1 case study1 answers
+Edureka Python for Data Science module1 case study1 answers
